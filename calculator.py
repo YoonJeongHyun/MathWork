@@ -14,3 +14,7 @@ def divide_free(a,b):
 
 def sex(a,b):
   return a,b
+
+
+def say_hello():
+  print("say hello")
